@@ -6,4 +6,5 @@ hello git!
 hello git!
 hello git!11111
 hello git!master test
+hello git!hot-fix test
 hello git!33333
